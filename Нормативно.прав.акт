@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+<title>Отдел образования,спорта и туризма Быховского райсполкома</title>
+<link rel="shortcut icon" href="images/logo.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="style5.css">
+<link rel="stylesheet" type="text/css" href="font-awesome-4.7.0\css\font-awesome.css">
+<link  href="https://fonts.google.com/specimen/Cuprum?selection.family=Cuprum" rel="stylesheet">
+</head>
+<body>
+<div id="header">
+  <pre class="kek"><strong></pre></strong>
+<div class="wrapper">
+</div>
+</div>
+<div id="sidebar">
+<div class="wrapper">
+<nav class="dws-menu">
+<ul>
+<li><a href="Главная.html"><i class="fa fa-home"></i>Главная</a>
+<ul>
+<li><a href="Основная.html">Приветствуем!</a></li>
+</ul>
+</li>
+<li><a href="Галерея.html"><i class="fa fa-user-o"></i>Галерея</a></li>
+<li><a href="Новости.html"><i class="fa fa-desktop"></i>Новости</a></li>
+<li><a href="Поздравляем.html"><i class="fa fa-smile-o"></i>Поздравляем</a></li>
+<li><a href="Контакты.html"><i class="fa fa-users"></i>Контакты</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div id="Menu">
+</div>
+<div id="Content">
+</div>
+<div id="footer">
+<marquee behavior="alternate" direction="right"><p class="lol" align="left"><strong>©Все права защищены</p></strong></marquee>
+<marquee><p class="lol" align="left"><strong>Рег.свидетельство:№7141000849 от 01.03.2010 года</p></strong></marquee>														
+</div>
+ </body>
+</html>
